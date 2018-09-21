@@ -1,0 +1,7 @@
+{
+    "autoload": {
+        "require": {
+            "google/apiclient": "^2.0"
+        }
+    }
+}
